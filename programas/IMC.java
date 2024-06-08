@@ -40,4 +40,7 @@ public class IMC {
             return "Obesidad";
         }
     }
+
+    public static void metodoIMC() {
+    }
 }

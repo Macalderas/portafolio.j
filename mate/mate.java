@@ -1,6 +1,9 @@
 package mate;
 
 public class mate {
+    public static void programaCalcurar() {
+    }
+
     // Método para sumar dos números
     public double sumar(double a, double b) {
         return a + b;
