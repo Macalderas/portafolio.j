@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # portafolio.j
+=======
+>>>>>>> 7154f9715d3cfc12dd75b6bf9be20972181f5043
 # Portafolio.Java
 
 # Portafolio de programas en java 
