@@ -1,4 +1,4 @@
-package InterfazGrafica;
+package Mis_metodos;
 
 public class ListaOpciones {
 
@@ -8,10 +8,10 @@ public class ListaOpciones {
     // Método para cargar las opciones
     public void cargarOpciones() {
         String[] listaDeOpciones = {
-                "Calculadora_1", "IMC_2",
-                "Login_3", "ListaOpciones_4",
-                "Grados_5", "mate_6",
-                "opcion_7", "opcion_8",
+                "Calculadora_1", "conversor",
+                "IMC", "Interfaz_Grafica",
+                "Lista", "mate_6",
+                "Conversor de monedas", "opcion_8",
                 "opcion_9", "salir_10"
         };
 

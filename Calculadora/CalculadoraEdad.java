@@ -1,4 +1,4 @@
-package calculadoraEdad;
+package Calculadora;
 
 import java.util.Scanner;
 

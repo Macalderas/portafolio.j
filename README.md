@@ -1,19 +1,19 @@
 # Portafolio.Java
 
-# Portafolio de programas en java 
-¡Bienvendido a mi portafolio en Java! este repositorio contiene una coleccion de programas que ha desarrollado para diversas. Cada subdirectorio contiene un programa especifico con su propia y funcionalidad. A continuacion se ofrece una descripcion detallada de cada uno de ellos.
+# Portafolio de Mis_metodos en java 
+¡Bienvendido a mi portafolio en Java! este repositorio contiene una coleccion de Mis_metodos que ha desarrollado para diversas. Cada subdirectorio contiene un programa especifico con su propia y funcionalidad. A continuacion se ofrece una descripcion detallada de cada uno de ellos.
 
-# Descripcion de los programas 
+# Descripcion de los Mis_metodos 
 
-# Main 
-* Archivo: `Main.java`
-* Archivo: Punto de entrada principala del portafolio puede utilizarse para navegar entre los diferentes programas 
+# Lista.Main 
+* Archivo: `Lista.Main.java`
+* Archivo: Punto de entrada principala del portafolio puede utilizarse para navegar entre los diferentes Mis_metodos 
 
 # Conversor 
 * Archivo: `Conversor.java`
 * Descripcion: Un programa que permite la conversacion entre diferentes unidades de medida 
 
-# Grados
+# Conversor
 * Archivo: `ConversorGrados.java`
 * Descripcion: Convierte temperaturas entre Celsius, Fahrenheit y Kelvin.
 

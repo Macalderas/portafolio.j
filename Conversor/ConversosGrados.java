@@ -1,5 +1,5 @@
 
-package Grados;
+package Conversor;
 import java.util.Scanner;
 public class ConversosGrados {
     public static void main(String[] args) {
@@ -49,5 +49,9 @@ public class ConversosGrados {
     // Método para convertir de Fahrenheit a Celsius
     public static double fahrenheitACelsius(double fahrenheit) {
         return (fahrenheit - 32) * 5 / 9;
+    }
+
+    public static void conversorGrados() {
+
     }
 }

@@ -7,5 +7,8 @@ public class Banner {
         System.out.println("     Mac        ");
         System.out.println("----------------------");
     }
+
+    public static void MensajeBanner() {
     }
+}
 

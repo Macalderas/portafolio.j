@@ -1,10 +1,15 @@
+package Lista;
+
+import Conversor.ConversosGrados;
+import Conversor.Longitudes;
+import Conversor.Monedas.ConversorDeMonedas;
 import InterfazGrafica.Banner;
-import InterfazGrafica.ListaOpciones;
-import Lista.ListaDeCompras;
-import programas.IMC;
+import Mis_metodos.ListaOpciones;
+import IMC.IMC;
 import java.util.Scanner;
-import calculadoraEdad.CalculadoraEdad;
-import mate.mate;
+
+import Calculadora.mate;
+import libros.Biblioteca;
 
 public class Main {
     // Método main
@@ -26,6 +31,7 @@ public class Main {
         int opcion = intoOpcion.nextInt();
         System.out.println("--------------------");
 
+
         // Cargar opción del usuario
         switch (opcion) {
             case 1:
@@ -35,22 +41,22 @@ public class Main {
                 IMC.metodoIMC();
                 break;
             case 3:
-                System.out.println("Login_3");
+                ConversorDeMonedas.conversor();
                 break;
             case 4:
-                System.out.println("Calcular_4");
+                ConversosGrados.conversorGrados();
                 break;
             case 5:
-                System.out.println("Grados_5");
+                ConversosGrados.conversorGrados();
                 break;
             case 6:
-                ListaDeCompras.programa();
+                Banner.MensajeBanner();
                 break;
             case 7:
-                System.out.println("opcion 7");
+               Longitudes.ConversorLongitudes();
                 break;
             case 8:
-                System.out.println("opcion 8");
+                Biblioteca.programa();
                 break;
             case 9:
                 System.out.println("opcion 9");

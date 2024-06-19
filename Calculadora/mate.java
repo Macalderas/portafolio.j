@@ -1,4 +1,4 @@
-package mate;
+package Calculadora;
 
 public class mate {
     public static void programaCalcurar() {
