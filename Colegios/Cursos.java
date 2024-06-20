@@ -5,24 +5,36 @@ public class Cursos {
     public Cursos(String matemáticas, String primaria, String numero) {
     }
 
+    public String getNombre() {
+        return "";
+    }
+
+    public String getCategoria() {
+        return "";
+    }
+
+    public String getPeriodo() {
+        return "";
+    }
+
     public class Curso {
-        private String nombre;
+        private String Nombre;
         private String categoria;
         private String periodo;
 
         public Curso(String nombre, String categoria, String periodo) {
-            this.nombre = nombre;
+            this.Nombre = Nombre;
             this.categoria = categoria;
             this.periodo = periodo;
         }
 
         // Getters y Setters
         public String getNombre() {
-            return nombre;
+            return Nombre;
         }
 
-        public void setNombre(String nombre) {
-            this.nombre = nombre;
+        public void setNombre(String Nombre) {
+            this.Nombre = Nombre;
         }
 
         public String getCategoria() {
