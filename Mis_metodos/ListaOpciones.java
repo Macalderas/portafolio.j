@@ -11,8 +11,8 @@ public class ListaOpciones {
                 "Calculadora_1", "conversor",
                 "IMC", "Interfaz_Grafica",
                 "Lista", "mate_6",
-                "Conversor de monedas", "opcion_8",
-                "opcion_9", "salir_10"
+                "Conversor de monedas", "Biblioteca",
+                "Estudiantes", "salir_10"
         };
 
         listaOpciones = listaDeOpciones; // Asignar opciones a la variable de instancia

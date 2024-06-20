@@ -1,5 +1,6 @@
 package Lista;
 
+import Colegios.Estudiantes;
 import Conversor.ConversosGrados;
 import Conversor.Longitudes;
 import Conversor.Monedas.ConversorDeMonedas;
@@ -59,7 +60,7 @@ public class Main {
                 Biblioteca.programa();
                 break;
             case 9:
-                System.out.println("opcion 9");
+                Estudiantes.programa2();
                 break;
             case 10:
                 System.out.println("salir_10");
